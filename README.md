@@ -1,3 +1,6 @@
+
+![Eye tracking camera](https://github.com/user-attachments/assets/238db712-83f4-49fa-b9f5-d0776f89ccea)
+
 ## Bill of materials to build the PCB
 
 - 1 x [PCB](https://jlcpcb.com/) (PCB thickness 0.4 - 0.6 mm)
