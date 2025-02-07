@@ -1,3 +1,4 @@
+The mass of the frame with the SIL conenctors is approximately 0.09g.
 
 ![Eye tracking camera](https://github.com/user-attachments/assets/238db712-83f4-49fa-b9f5-d0776f89ccea)
 
