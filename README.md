@@ -1,0 +1,2 @@
+## Bill of materials
+ 2 x [SIL connectors](https://cpc.farnell.com/harwin/d01-9972042/socket-sil-20way/dp/CN25209?mckv=sshopping_dc|pcrid|490819656951|kword||match||plid||slid||product|CN25209|pgrid|47129862676|ptaid|pla-370066815349|&CMP=KNC-GUK-CPC-SHOPPING-946695261-47129862676-CN25209&s_kwcid=AL!5616!3!490819656951!!!network}!370066815349!&gad_source=1&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ4zqEsDgejgskl7jiyFgUIFa_ObXshxANYtKUctAGlKAhhWetj0i5QaAueOEALw_wcB) 
