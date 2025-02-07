@@ -1,5 +1,7 @@
-The mass of the frame with the SIL conenctors is approximately 0.09g.
-Resistor values were calculated baser on Vcc = 4V but we ended up suplying it at 3.3V (Nominal voltage for the camera)
+## Some notes
+
+- The mass of the frame with the SIL conenctors is approximately 0.09g.
+- Resistor values were calculated baser on Vcc = 4V but we ended up suplying it at 3.3V (Nominal voltage for the camera)
 
 ![Eye tracking camera](https://github.com/user-attachments/assets/238db712-83f4-49fa-b9f5-d0776f89ccea)
 
