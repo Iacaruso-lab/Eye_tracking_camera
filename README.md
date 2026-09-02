@@ -41,7 +41,8 @@
 ## Some notes
 
 - The mass of the frame with the SIL conenctors is approximately 90 mg.
-<img width="1020" height="765" alt="image" src="https://github.com/user-attachments/assets/d6919958-8e0c-4ee9-9ebd-a95f9d995a3e" />
+<img width="401" height="211" alt="image" src="https://github.com/user-attachments/assets/b9688fff-73b7-4505-81c7-e5c26f47a005" />
+
 
 - In a second design iteration we added one degree of freedom to the 3D desing to allow for the camera orientation
 <img width="1341" height="583" alt="image" src="https://github.com/user-attachments/assets/35369488-14d3-4294-9aed-ff50649e5a61" />
