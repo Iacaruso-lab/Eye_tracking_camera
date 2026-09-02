@@ -20,6 +20,8 @@
 
 - Solder the resistors in the opposite side
 - Solder the SIL connector
+<img width="1313" height="411" alt="image" src="https://github.com/user-attachments/assets/f8ac782d-6a88-4e94-b6df-bd8474c21a04" />
+
 - Remove the SIL connector plastic part with clippers
 - Cut the top excess of the SIL connector
 - Strip off the camera cables
