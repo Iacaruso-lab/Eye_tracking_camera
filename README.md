@@ -19,7 +19,8 @@
 <img width="1461" height="1219" alt="607056966-f32358ff-5b07-4499-b614-00222abcf55b" src="https://github.com/user-attachments/assets/58972f6c-e026-42e3-ae1e-465e12de9c26" />
 
 - Solder the resistors in the opposite side
-<img width="430" height="243" alt="image" src="https://github.com/user-attachments/assets/b6d78ad2-eb1b-4f57-b30c-e09f1f4c57be" />
+<img width="467" height="311" alt="image" src="https://github.com/user-attachments/assets/12d1075e-e86a-40e1-a069-245700331edd" />
+
 
 
 - Solder the SIL connector
@@ -32,8 +33,9 @@
 - Strip off the camera cables
 <img width="793" height="362" alt="image" src="https://github.com/user-attachments/assets/a5d4e596-79af-4ee5-923b-235b6551356a" />
 
-- Solder the camera wires with each corresponding path
-- Glue the camera with the PCB using super glue
+- Solder the camera wires with each corresponding pad and glue the camera with the PCB using super glue
+<img width="556" height="317" alt="image" src="https://github.com/user-attachments/assets/8346bf6b-5053-4dd2-8575-b1a9810395eb" />
+
 - Solder the Vcc (3-3.3V), GND, and signal terminals with the cables
 
 ## Some notes
