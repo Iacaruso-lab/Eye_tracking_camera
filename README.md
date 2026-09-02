@@ -25,6 +25,8 @@
 - Remove the SIL connector plastic part with clippers
 - Cut the top excess of the SIL connector
 - Strip off the camera cables
+<img width="793" height="362" alt="image" src="https://github.com/user-attachments/assets/a5d4e596-79af-4ee5-923b-235b6551356a" />
+
 - Solder the camera wires with each corresponding path
 - Glue the camera with the PCB using super glue
 - Solder the Vcc (3-3.3V), GND, and signal terminals with the cables
