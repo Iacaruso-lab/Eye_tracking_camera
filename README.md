@@ -22,8 +22,9 @@
 - Solder the SIL connector
 <img width="1313" height="411" alt="image" src="https://github.com/user-attachments/assets/f8ac782d-6a88-4e94-b6df-bd8474c21a04" />
 
-- Remove the SIL connector plastic part with clippers
-- Cut the top excess of the SIL connector
+- Remove the SIL connector plastic part with clippers and cut the top excess of the SIL connector
+<img width="511" height="290" alt="image" src="https://github.com/user-attachments/assets/1f4e27a2-0faa-4f1c-81e6-86d5332f3173" />
+
 - Strip off the camera cables
 <img width="793" height="362" alt="image" src="https://github.com/user-attachments/assets/a5d4e596-79af-4ee5-923b-235b6551356a" />
 
