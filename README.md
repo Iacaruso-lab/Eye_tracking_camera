@@ -18,6 +18,7 @@
 - Hold the PCB using tape on the thinner side
 - Solder the IR LEDs in the following orientation (Polarity)
 <img width="1461" height="1219" alt="607056966-f32358ff-5b07-4499-b614-00222abcf55b" src="https://github.com/user-attachments/assets/58972f6c-e026-42e3-ae1e-465e12de9c26" />
+
 - Solder the resistors in the opposite side
 - Solder the SIL connector
 - Remove the SIL connector plastic part with clippers
