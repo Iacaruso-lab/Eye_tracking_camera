@@ -13,5 +13,10 @@
 - 3 x [Resistors](https://uk.rs-online.com/web/p/surface-mount-resistors/2413233?searchId=43439db6-fc9c-4466-bd31-436fe6f9f2b1&gb=s)
 - 3 x [IR LED](https://uk.rs-online.com/web/p/ir-leds/1847276?gb=s)
 
-## LED soldering orientation
-<img width="3060" height="4080" alt="20240408_163253" src="https://github.com/user-attachments/assets/f32358ff-5b07-4499-b614-00222abcf55b" />
+## Assembly instructions
+
+- Hold the PCB using tape on the thinner side
+- Solder the IR LEDs in the following orientation (Polarity)
+<img width="1461" height="1219" alt="607056966-f32358ff-5b07-4499-b614-00222abcf55b" src="https://github.com/user-attachments/assets/58972f6c-e026-42e3-ae1e-465e12de9c26" />
+- Solder the resistors in the opposite side
+- 
