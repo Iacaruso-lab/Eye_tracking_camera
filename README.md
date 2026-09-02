@@ -1,7 +1,4 @@
-## Some notes
 
-- The mass of the frame with the SIL conenctors is approximately 90 mg.
-- Resistor values were calculated baser on Vcc = 4V but we ended up suplying it at 3.3V (Nominal voltage for the camera).
 
 ![Eye tracking camera](https://github.com/user-attachments/assets/1eb9cfd6-ad58-4493-b880-12d4a0ee1269)
 
@@ -29,3 +26,10 @@
 - Solder the camera wires with each corresponding path
 - Glue the camera with the PCB using super glue
 - Solder the Vcc (3-3.3V), GND, and signal terminals with the cables
+
+## Some notes
+
+- The mass of the frame with the SIL conenctors is approximately 90 mg.
+- In a second design iteration we added one degree of freedom to the 3D desing to allow for the camera orientation
+<img width="1341" height="583" alt="image" src="https://github.com/user-attachments/assets/35369488-14d3-4294-9aed-ff50649e5a61" />
+
