@@ -1,6 +1,11 @@
-
-
 ![Eye tracking camera](https://github.com/user-attachments/assets/1eb9cfd6-ad58-4493-b880-12d4a0ee1269)
+
+<table>
+  <tr>
+    <td><img width="100%" alt="ezgif-optimized" src="https://github.com/user-attachments/assets/120d4010-fa74-4d40-94cb-5302c25fbee2" /></td>
+    <td><img width="100%" alt="Media1" src="https://github.com/user-attachments/assets/abd7d917-f6fd-43e8-98e5-8dd68ea2893a" /></td>
+  </tr>
+</table>
 
 ## Bill of materials
 
